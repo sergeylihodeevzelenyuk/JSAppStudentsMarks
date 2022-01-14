@@ -1,0 +1,32 @@
+.table {
+  width: 90%;
+  margin: 40px auto;
+  border: 1px solid rgba(158, 158, 158, 0.623);
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.table thead {
+  height: 40px;
+}
+
+.input_mark {
+  box-sizing: border-box;
+  height: 40px;
+  border: 2px solid rgba(22, 22, 54, 0.568);
+  border-radius: 3px;
+  resize: none;
+  width: 90%;
+  margin: 0 10px;
+  text-align: center;
+  padding: 8px 0 0;
+}
+
+.input_mark.error {
+  border: 2px solid red;
+  border-radius: 3px;
+}
+
+.btn_delete {
+  margin: 0 10px;
+}

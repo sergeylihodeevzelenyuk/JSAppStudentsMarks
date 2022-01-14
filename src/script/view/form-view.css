@@ -1,0 +1,13 @@
+.student_create {
+  text-align: center;
+}
+
+.input_create {
+  border: 2px solid rgba(22, 22, 54, 0.568);
+  border-radius: 3px;
+}
+
+.input_create.error {
+  border: 2px solid red;
+  border-radius: 3px;
+}
